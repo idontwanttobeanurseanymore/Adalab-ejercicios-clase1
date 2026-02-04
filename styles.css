@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(243, 183, 219);
+}
+h1 {
+    color: black;
+    font-size: 20px;
+    
+}
+body {
+    color:rgb(238, 18, 18)
+}
+.lista{
+    font-size:16px;
+    color:rgb(18, 47, 20);
+    border: solid yellow
+}
+h3{
+    color:blueviolet
+}
